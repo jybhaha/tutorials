@@ -57,15 +57,15 @@
 ***
 ##工具
 手头只有Windows平台 ，所以只是使用了windows系统下的一些工具。
-1. markdown pad 2
+*  [markdown pad 2](http://markdownpad.com/)
 以前用过markdown pad 2，感觉很平庸，不过好在各种功能还算齐全。
-2. markpad
+*  [markpad](http://markpad.fluid.impa.br/)
 很"丑陋"的一个软件，看见第一眼——放弃
-3. cmd markdown
+*  [cmd markdown](https://www.zybuluo.com/mdeditor#492234)
 一款商业的markdown软件，虽然pro版功能才算齐全，例如，导出pdf等功能。但即使是非pro版已经很好用了。
 另外对于不熟悉markdown语法的人来说，cmd markdown在工具栏上，列出了一些常用工具，如添加图片、添加链接。
 再有这款软件默认使用consolas字体，我最喜欢使用的字体之一。
-4.[ maxiang](https://maxiang.io/)
+* [ maxiang](https://maxiang.io/)
 马克飞象
 如果不是遇到了马克飞象，我可能会一直用cmd markdown。
 马克飞象几乎有cmd markdown的所有pro版功能，还有网页版、桌面版 、chrome版各种版本，满足不同需要。

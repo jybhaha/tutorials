@@ -53,21 +53,3 @@ New jekyll site installed in 目录
 
 
 
-�Jeckyll服务器
->$cd blog  #一定记得进入新创建的blog文件夹内
->$jekyll serve #启动一个地址为http://localhost:4000的服务器。在浏览器打开网址即可
-
-**注意：**
-若是提示
->Permission denied - bind(2) for 127.0.0.1:4000 (Errno::EACCES)
-
-说明端口号4000被占用了，在_config.yml 末尾添加
->port: 4001
-
-用端口4001创建即可。
-
-
-用浏览器代开http://localhost:4001 出现Jekyll界面说明创建成功。
-
-
-

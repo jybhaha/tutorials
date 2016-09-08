@@ -12,7 +12,7 @@ Jekyll是一个简单免费的静态站点生成器，它根据网页源码生�
 平台：Window10
 
 1. Ruby
-* Window 系统下，我们可以使用 RailsInstaller 来安装 Ruby 环境，[下载地址](http://railsinstaller.org/en)
+>* Window 系统下，我们可以使用 RailsInstaller 来安装 Ruby 环境，[下载地址](http://railsinstaller.org/en)
 * 下载 RailsInstaller 之后，双击 railsinstaller-3.2.0 文件，启动 Ruby 安装向导
 * 点击 Next，继续向导，记得勾选 Add Ruby executables to your PATH，直到 Ruby 安装程序完成 Ruby 安装为止
 安装后，通过在命令行中输入 $ ruby -v 命令来确保一切-工作正常

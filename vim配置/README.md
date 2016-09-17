@@ -1,8 +1,8 @@
-# vim配置
+﻿# vim配置
 
 这两天vim8.0重新更新了，据说更新了很多新特新。是时候重新拾起我的vim了。
 
-![]配置图](https://github.com/jybhaha/tutorials/blob/master/IMAGE/VIM-1.png)
+![配置图](../IMAGE/VIM-1.png)
 
 
 ## 安装gvim
